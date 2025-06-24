@@ -4,8 +4,8 @@ body{
 }
 
 .container{
-    height:480px;
-    width:480px;
+    height:32rem;
+    width:32rem;
     border:4px solid;
    
 }
@@ -15,8 +15,8 @@ body{
 }
 
 .row1child{
-    height:60px;
-    width:60px;
+    height:4rem;
+    width:4rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +26,7 @@ body{
    
 }
 .browncol{
-     font-size:40px;
+     font-size:2.5rem;
     color:brown;
    
 }
@@ -34,8 +34,8 @@ body{
     background-color: black;
 }
 .row2child{
-    height:60px;
-    width:60px;
+    height:4rem;
+    width:4rem;
      display: flex;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,7 @@ body{
 }
 .bluecol{
     color:green;
-    font-size: 40px;
+    font-size: 2.5rem;
    
 }
 .row2child:nth-child(odd){
